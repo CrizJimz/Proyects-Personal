@@ -1,0 +1,41 @@
+1-  Realizar un programa que pida 2 números al usuario, posteriormente muestre la suma de esos 2 números y el resultado del primero menos el segundo número
+2-  Realizar un programa que pida 2 números al usuario, posteriormente muestre el restante de la división: el primero entre el segundo número.
+3-  Realizar un programa que en primer lugar pida al usuario qué tipo de área necesita calcular: rectangular, circular o triangular, posteriormente pida los valores necesarios para calcular el área y muestre el valor al usuario
+4-  Realizar un programa que permita convertir el valor de la temperatura entre grados Celsius a grados Fahrenheit o viceversa, según lo requiera el usuario
+5-  Crear un programa que pida 3 números al usuario y los ordene de mayor a menor
+6-  Crear un programa que genere 3 números aleatorios, el usuario elige uno de ellos y devuelva el resultado de dividir ese número del 1 a mismo valor elegido
+7-  Crear un programa que genere un número aleatorio entre 1 y 10, el usuario deberá adivinar el número, si acierta: felicitarlo, si falla: indicarlo. Cualquiera de los 2 casos: continuar jugando  
+8-  Realizar un programa que muestre al usuario la tabla de multiplicar del 0 al 10 del número que indique
+9-  Pedir un número entero al usuario y devolver el doble de ese número, si el usuario desea calcular el siguiente doble, continuar
+10- Realizar un programa que permita sumar de n en n las veces que el usuario lo requiera, permitiendo al usuario también elegir el valor del incremento
+11- Realizar un programa que pida al usuario un número entero y devuelva los números primos entre 0 y el número elegido
+12- Realizar un programa que calcule y muestre el mínimo común múltiplo de 2 números que el usuario proporcione
+13- Realizar un programa que pida la usuario una posición y muestre los números de la secuencia de Fibonacci hasta esa posición
+14- Realizar un programa que pida al usuario una cadena de caracteres y cuente cuántas letras tiene la frase
+15- Realizar un programa que pida al usuario una cadena de caracteres y cuente cuántas vocales tiene la frase
+16- Realizar un programa que pida al usuario una cadena de caracteres y volte la cadena de caracteres para que comience por la última letra y termine en la primer letra
+17- Realizar un programa que pida al usuario una cadena de caracteres y evalúe si la oración es un palíndromo
+18- Realizar un programa que pida al usuario una cadena de caracteres y cuente cuántas palabras tiene la oración
+19- Realizar un programa que pida al usuario un conjunto de números y muestre la suma de esos números
+20- Realizar un programa que pida al usuario un conjunto de números y muestre el promedio de esos números
+21- Realizar un programa que pida al usuario un conjunto de números y solo muestre los números impares de esos números
+22- Realizar un programa que pida al usuario un conjunto de números y solo muestre los números pares de esos números
+23- Realizar un programa que pida al usuario un conjunto de números y solo muestre los números negativos de esos números
+24- Realizar un programa que usando el carácter “+” muestre un cuadrado de 7 x 7
+25- Realizar un programa que usando el carácter “+” muestre un triángulo de 7 x 7
+26- Realizar un programa que usando el carácter “+” muestre un cuadrado de base dada por el usuario
+27- Realizar un programa que usando el carácter “+” muestre un triángulo de base dada por el usuario
+28- Realizar un programa que valide si una cadena de texto es un correo electrónico
+29- Realizar un programa que permita cifrar una palabra utilizando el cifrado César
+30- Realizar un programa que permita descifrar una palabra bajo el cifrado César
+31- Realizar un programa que muestre una cuenta en números romanos del 1 al 20
+32- Realizar un programa que muestre una cuenta en número romanos del 1 hasta el valor indicado por el usuario
+33- Realizar un programa que verifique si dos oraciones son un anagrama
+34- Realizar un programa que realice la suma de los números del 1 al 100
+35- Realiza un programa que simule lanzar una moneda (cara y águila)
+36- Realizar un programa que simule lanzar una dado de 6 caras
+37- Realizar un programa que simule lanzar un dado de 20 caras
+38- Realizar un programa que simule el menú de una cafetería, lleve la cuenta de una mesa y muestre el total a pagar, dando la opción al usuario de agregar propina
+39- Realizar un programa que calcule los intereses de una cuenta bancaria con un interés compuesto de 1.32% por día
+40- Crear un programa que permita convertir la temperatura entre las diferentes unidades: Celsius, Fahrenheit y Kelvin
+
