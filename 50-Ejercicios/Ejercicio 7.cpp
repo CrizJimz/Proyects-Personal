@@ -6,15 +6,22 @@ Ejercicio 7 */
 #include <cstdlib>
 #include <ctime>
 
+
 using namespace std;
 
 int main(){
 	
 	srand(time(NULL));
+	char playAgain;
+	char Yes='Y';
+	cout<<endl<<"Bienvenido al juego --Adivine el numero--"<<endl;
+	
+	do{
+	
 	int numeroAletorio=rand()%10+1;
 	int respuesta=0;
-
-	cout<<endl<<"Bienvenido al juego --Adivine el numero--"<<endl;
+	
+	system("cls");
 	cout<<endl<<"----Advine el numero entre 1 al 10----"<<endl<<">> ";
 	
 	cin>>respuesta;
@@ -27,8 +34,14 @@ int main(){
 		cin>>respuesta;
 	}
 	
-	cout<<"----Encontraste el numero----"<<endl;
-	cout<<"   >>>>>>>>>>> "<<numeroAletorio<<" <<<<<<<<<<<";
+	cout<<"----Encontraste el numero----"<<endl<<endl;
+	cout<<"   >>>>>>>>>>> "<<numeroAletorio<<" <<<<<<<<<<<"<<endl<<endl;
+	
+	cout<<"----Desea volver a jugar? (Y/N)----"<<endl<<">> ";
+	cin>>playAgain;
+	playAgain=toupper(playAgain);
+	}
+	while(playAgain==Yes);
 
 	return 0;
 }
